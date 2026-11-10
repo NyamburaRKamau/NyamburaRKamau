@@ -10,7 +10,7 @@
 
 ## 👋🏽 About
 
-A machine learning engineer who has applied machine learning to **computational oncology, fintech, fraud risk, HR tech and economics**, as a founder and in product and UX research.
+A machine learning engineer who has applied machine learning to **computational oncology, fintech, fraud risk, HR tech and economics & emerging markets**, as a founder and in product and UX research.
 
 ---
 
@@ -21,7 +21,7 @@ A machine learning engineer who has applied machine learning to **computational 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL_(Terraform)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL(Terraform)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### Data and modelling
