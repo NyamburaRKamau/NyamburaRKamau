@@ -10,7 +10,7 @@
 
 ## 👋🏽 About
 
-A machine learning engineer who has applied machine learning to **computational oncology, fintech, fraud risk, HR tech and economics & emerging markets**, as a founder and in product and UX research.
+A machine learning engineer who has applied machine learning to **computational oncology, fintech, fraud risk, HR tech, economics and emerging markets**, as a founder and in product and UX research.
 
 ---
 
