@@ -10,7 +10,11 @@
 
 ## 👋🏽 About
 
-A machine learning engineer who has applied machine learning to **computational oncology, fintech, fraud risk, HR tech, economics and emerging markets**, as a founder and in product and UX research.
+Algo-Oncologist & Machine Learning Engineer Founder **@ Bloom Health Space** I build end-to-end ML systems and AI-powered products across **computational oncology, fintech, fraud risk, and emerging markets.**
+
+* 🧬 **Focus:** Computational Oncology, MLOps, & Product/UX Research
+* 📚 **Advocacy:** Black Health Equity & Global Health Policy
+* 🛠️ **Building:** Scalable ML models for complex, real-world data
 
 ---
 
